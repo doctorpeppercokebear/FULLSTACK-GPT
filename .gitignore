@@ -1,3 +1,4 @@
 # env 파일을 git 무시
 env/
 .env
+.idea
