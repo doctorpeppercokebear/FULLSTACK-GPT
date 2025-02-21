@@ -5,3 +5,5 @@ env/
 test.db
 .cache
 cache/
+.streamlit
+chapter7/document.txt
